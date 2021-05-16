@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App58</string>
+    <string name="hint_name">Enter Computer Name</string>
+    <string name="hint_type">Enter Computer Type</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_del">Delete</string>
+
+    <dimen name="field_margin">10dp</dimen>
+    <dimen name="text_size">18sp</dimen>
+
+</resources>
